@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/internshala-arnav/static/css/main.07818902.chunk.css",
-    "main.js": "/internshala-arnav/static/js/main.199ea43f.chunk.js",
-    "main.js.map": "/internshala-arnav/static/js/main.199ea43f.chunk.js.map",
+    "main.js": "/internshala-arnav/static/js/main.8482bde3.chunk.js",
+    "main.js.map": "/internshala-arnav/static/js/main.8482bde3.chunk.js.map",
     "runtime-main.js": "/internshala-arnav/static/js/runtime-main.d47916a5.js",
     "runtime-main.js.map": "/internshala-arnav/static/js/runtime-main.d47916a5.js.map",
     "static/css/2.f2512455.chunk.css": "/internshala-arnav/static/css/2.f2512455.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.f2512455.chunk.css",
     "static/js/2.1eacf455.chunk.js",
     "static/css/main.07818902.chunk.css",
-    "static/js/main.199ea43f.chunk.js"
+    "static/js/main.8482bde3.chunk.js"
   ]
 }
