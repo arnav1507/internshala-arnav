@@ -22,7 +22,10 @@ function Navbar() {
               class="navbar-brand-two mx-auto d-lg-none d-inline-block"
               href="#"
             >
-              <img src="//placehold.it/40?text=LOGO" alt="logo" />
+              <img
+                src="https://internshala.com/static/images/common/new_internshala_logo.svg"
+                alt="Internshala logo"
+              />
             </a>
             <div class="w-100 text-right">
               <button
